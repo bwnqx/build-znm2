@@ -20,7 +20,7 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/bwnqx/ipq6000.git
+  REPO_URL: https://github.com/bwnqx/zn-m2
   REPO_BRANCH: 1004
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: ./config/zn-m2.config
